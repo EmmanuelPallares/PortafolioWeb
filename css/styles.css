@@ -9855,6 +9855,10 @@ a.text-dark:hover, a.text-dark:focus {
   color: rgba(255, 255, 255, 0.5) !important;
 }
 
+.text-height-2 {
+  line-height: 1.5!important;
+}
+
 .text-hide {
   font: 0/0 a;
   color: transparent;
@@ -10239,3 +10243,4 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
